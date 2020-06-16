@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Select the stations for want
-    description                           : Among all the stations in Swtzerland. Train, bus, boat, anything!
+    description                           : Among all the stations in Swtzerland. Train, bus, cablecar, anything!
     fontawesome_icon_name                 : subway
 
   - title                                 : Your best journey is computed
